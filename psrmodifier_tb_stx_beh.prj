@@ -1,0 +1,2 @@
+vhdl isim_temp "PSR_modifier.vhd"
+vhdl isim_temp "tb_PSR_modifier.vhd"

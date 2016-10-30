@@ -1,0 +1,36 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/Users/angelicabibiana/Desktop/procesadorangelica2/procesador2/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Parameter xsthdpdir set to D:/Users/angelicabibiana/Desktop/procesadorangelica2/procesador2/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.12 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/Users/angelicabibiana/Desktop/procesadorangelica2/procesador2/MultiPlexo.vhd" in Library work.
+Entity <multiplexo> compiled.
+ERROR:HDLParsers:808 - "D:/Users/angelicabibiana/Desktop/procesadorangelica2/procesador2/MultiPlexo.vhd" Line 45. = can not have such operands in this context.
+ERROR:HDLParsers:808 - "D:/Users/angelicabibiana/Desktop/procesadorangelica2/procesador2/MultiPlexo.vhd" Line 48. = can not have such operands in this context.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> 
+
+Total memory usage is 261260 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,45 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.12 secs
+ 
+--> Parameter xsthdpdir set to D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.12 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3607 - Unit work/PSR/Behavioral is now defined in a different file.  It was defined in "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PSR.vhd", and is now defined in "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd".
+Compiling vhdl file "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PSR.vhd" in Library work.
+Architecture behavioral of Entity psr is up to date.
+Compiling vhdl file "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd" in Library work.
+ERROR:HDLParsers:164 - "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd" Line 144. parse error, unexpected LIBRARY
+ERROR:HDLParsers:164 - "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd" Line 149. parse error, unexpected IN
+ERROR:HDLParsers:164 - "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd" Line 150. parse error, unexpected IN
+ERROR:HDLParsers:164 - "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd" Line 151. parse error, unexpected COLON, expecting COMMA or CLOSEPAR
+ERROR:HDLParsers:3011 - "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd" Line 152. End Identifier PSR does not match declaration, Behavioral.
+ERROR:HDLParsers:3298 - "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd" line 158. Expression is not a static name.
+ERROR:HDLParsers:808 - "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd" Line 160. = can not have such operands in this context.
+ERROR:HDLParsers:800 - "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd" Line 161. Type of carry is incompatible with type of '0'.
+ERROR:HDLParsers:800 - "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.vhd" Line 164. Type of carry is incompatible with type of nzvc.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.18 secs
+ 
+--> 
+
+Total memory usage is 213100 kilobytes
+
+Number of errors   :    9 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

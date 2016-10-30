@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "D:/Users/angelicabibiana/Desktop/procesadorangelica/procesador1/Rf.xst" -ofn "D:/Users/angelicabibiana/Desktop/procesadorangelica/procesador1/Rf.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Rf.ngc Rf.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Rf_map.ncd Rf.ngd Rf.pcf 
+par -w -intstyle ise -ol high -t 1 Rf_map.ncd Rf.ncd Rf.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Rf.twx Rf.ncd -o Rf.twr Rf.pcf 
+vhdtdtfi -prj procesador1 -o D:/Users/angelicabibiana/Desktop/procesadorangelica/procesador1/Rf.vhi -module Rf -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Rf.vhd 

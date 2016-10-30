@@ -1,0 +1,5 @@
+set -tmpdir "D:/Users/angelicabibiana/Desktop/procesadorangelica/procesador1/xst/projnav.tmp"
+set -xsthdpdir "D:/Users/angelicabibiana/Desktop/procesadorangelica/procesador1/xst"
+elaborate
+-ifn memoriaInstrucciones.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+vhdtdtfi -prj procesador1 -o D:/Users/angelicabibiana/Desktop/procesadorangelica2/procesador2/muxx.vhi -module muxx -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work MultiPlexo.vhd 

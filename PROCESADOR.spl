@@ -1,0 +1,6 @@
+[Inputs]
+clk
+rst
+[Outputs]
+=salida_procesador[31:0]=
+[BiDir]

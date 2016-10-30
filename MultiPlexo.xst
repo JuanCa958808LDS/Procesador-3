@@ -1,0 +1,5 @@
+set -tmpdir "D:/Users/angelicabibiana/Desktop/procesadorangelica2/procesador2/xst/projnav.tmp"
+set -xsthdpdir "D:/Users/angelicabibiana/Desktop/procesadorangelica2/procesador2/xst"
+elaborate
+-ifn MultiPlexo.prj
+-ifmt mixed

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 124: Syntax error near &quot;<arg fmt="%s" index="1">library</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="841" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 124: Expecting type <arg fmt="%s" index="2"> void</arg> for &lt;<arg fmt="%s" index="1">ieee</arg>&gt;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="40" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 125: <arg fmt="%s" index="1">is_x</arg> is not a <arg fmt="%s" index="2"> void</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="432" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 125: Formal &lt;<arg fmt="%s" index="1">s</arg>&gt; has no actual or default value.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 127: Syntax error near &quot;<arg fmt="%s" index="1">entity</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1728" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 129: Type error near <arg fmt="%s" index="1">std_logic</arg> ; current type <arg fmt="%s" index="2">std_ulogic</arg>; expected type <arg fmt="%s" index="3"> void</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="32" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 130: &lt;<arg fmt="%s" index="1">clk</arg>&gt; is already declared in this region.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 130: Syntax error near &quot;<arg fmt="%s" index="1">in</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1728" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 130: Type error near <arg fmt="%s" index="1">std_logic</arg> ; current type <arg fmt="%s" index="2">std_ulogic</arg>; expected type <arg fmt="%s" index="3"> void</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 131: Syntax error near &quot;<arg fmt="%s" index="1">:</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="580" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 132: Mismatch on label ; expected <arg fmt="%s" index="1">behavioral</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="854" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 38: Unit &lt;<arg fmt="%s" index="1">behavioral</arg>&gt; ignored due to previous errors.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="303" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 141: Character <arg fmt="%s" index="1">&apos;0&apos;</arg> is not in type <arg fmt="%s" index="2">std_logic_vector</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="539" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 144: Indexed name is not a <arg fmt="%s" index="1">std_logic_vector</arg>
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 140: &lt;<arg fmt="%s" index="1">reset</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 138: &lt;<arg fmt="%s" index="1">reset</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="854" delta="unknown" >"D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" Line 134: Unit &lt;<arg fmt="%s" index="1">behavioral</arg>&gt; ignored due to previous errors.
+</msg>
+
+</messages>
+
