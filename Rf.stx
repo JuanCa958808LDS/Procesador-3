@@ -1,33 +1,32 @@
 Release 14.7 - xst P.20131013 (nt64)
 Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
---> Parameter TMPDIR set to D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/xst/projnav.tmp
+--> Parameter TMPDIR set to D:/Users/angelicabibiana/Desktop/procesadorangelica/procesador1/xst/projnav.tmp
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.10 secs
+Total CPU time to Xst completion: 0.15 secs
  
---> Parameter xsthdpdir set to D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/xst
+--> Parameter xsthdpdir set to D:/Users/angelicabibiana/Desktop/procesadorangelica/procesador1/xst
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.10 secs
+Total CPU time to Xst completion: 0.15 secs
  
 --> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
 
 =========================================================================
 *                          HDL Compilation                              *
 =========================================================================
-Compiling vhdl file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Rf.vhd" in Library work.
-Entity <rf> compiled.
-Entity <rf> (Architecture <behavioral>) compiled.
+Compiling vhdl file "D:/Users/angelicabibiana/Desktop/procesadorangelica/procesador1/Rf.vhd" in Library work.
+Architecture behavioral of Entity rf is up to date.
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.13 secs
+Total CPU time to Xst completion: 0.25 secs
  
 --> 
 
-Total memory usage is 212268 kilobytes
+Total memory usage is 261340 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    1 (   0 filtered)

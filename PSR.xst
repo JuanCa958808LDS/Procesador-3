@@ -1,5 +1,5 @@
-set -tmpdir "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/xst/projnav.tmp"
-set -xsthdpdir "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/xst"
+set -tmpdir "D:/Desktop/procesador angelita 2/procesador2/xst/projnav.tmp"
+set -xsthdpdir "D:/Desktop/procesador angelita 2/procesador2/xst"
 elaborate
 -ifn PSR.prj
 -ifmt mixed

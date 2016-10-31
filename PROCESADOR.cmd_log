@@ -5,4 +5,3 @@ vhdtdtfi -lib work Ude.vhd -lib work UC.vhd -lib work sumador.vhd -lib work Rf.v
 spl2sym -intstyle ise -family spartan3e PROCESADOR.spl D:/Users/angelicabibiana/Desktop/procesadorangelica2/procesador2/PROCESADOR.sym 
 vhdtdtfi -lib work Ude.vhd -lib work UC.vhd -lib work sumador.vhd -lib work Rf.vhd -lib work nPC.vhd -lib work MultiPlexo.vhd -lib work Im.vhd -lib work Alu.vhd -lib work PROCESADOR.vhd -prj procesador1 -o PROCESADOR.spl -module PROCESADOR -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
 spl2sym -intstyle ise -family spartan3e PROCESADOR.spl D:/Users/angelicabibiana/Desktop/procesadorangelica2/procesador2/PROCESADOR.sym 
-xst -intstyle ise -ifn "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.xst" -ofn "D:/Documents/arquitectura de computadores LDS3/procesador  3 juan camilo LDS/procesador 3 LDS/PROCESADOR.syr" 

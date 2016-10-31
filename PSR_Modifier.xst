@@ -1,5 +1,5 @@
 set -tmpdir "D:/Desktop/procesador angelita 2/procesador2/xst/projnav.tmp"
 set -xsthdpdir "D:/Desktop/procesador angelita 2/procesador2/xst"
 elaborate
--ifn PROCESADOR.prj
+-ifn PSR_Modifier.prj
 -ifmt mixed

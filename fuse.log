@@ -1,18 +1,18 @@
-Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Tb_PROCESADOR_isim_beh.exe -prj D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Tb_PROCESADOR_beh.prj work.Tb_PROCESADOR 
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Tb_PROCESADOR_isim_beh.exe -prj D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Tb_PROCESADOR_beh.prj work.Tb_PROCESADOR 
 ISim P.20131013 (signature 0x7708f090)
 Number of CPUs detected in this system: 4
 Turning on mult-threading, number of parallel sub-compilation jobs: 8 
 Determining compilation order of HDL files
-Parsing VHDL file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Ude.vhd" into library work
-Parsing VHDL file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/UC.vhd" into library work
-Parsing VHDL file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/sumador.vhd" into library work
-Parsing VHDL file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Rf.vhd" into library work
-Parsing VHDL file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/nPC.vhd" into library work
-Parsing VHDL file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/MultiPlexo.vhd" into library work
-Parsing VHDL file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Im.vhd" into library work
-Parsing VHDL file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Alu.vhd" into library work
-Parsing VHDL file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/PROCESADOR.vhd" into library work
-Parsing VHDL file "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Tb_PROCESADOR.vhd" into library work
+Parsing VHDL file "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Ude.vhd" into library work
+Parsing VHDL file "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/UC.vhd" into library work
+Parsing VHDL file "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/sumador.vhd" into library work
+Parsing VHDL file "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Rf.vhd" into library work
+Parsing VHDL file "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/nPC.vhd" into library work
+Parsing VHDL file "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/MultiPlexo.vhd" into library work
+Parsing VHDL file "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Im.vhd" into library work
+Parsing VHDL file "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Alu.vhd" into library work
+Parsing VHDL file "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/PROCESADOR.vhd" into library work
+Parsing VHDL file "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Tb_PROCESADOR.vhd" into library work
 Starting static elaboration
 Completed static elaboration
 Compiling package standard
@@ -32,8 +32,8 @@ Compiling architecture behavioral of entity Alu [alu_default]
 Compiling architecture behavioral of entity PROCESADOR [procesador_default]
 Compiling architecture behavior of entity tb_procesador
 Time Resolution for simulation is 1ps.
-Waiting for 8 sub-compilation(s) to finish...
+Waiting for 2 sub-compilation(s) to finish...
 Compiled 25 VHDL Units
-Built simulation executable D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Tb_PROCESADOR_isim_beh.exe
-Fuse Memory Usage: 37756 KB
-Fuse CPU Usage: 638 ms
+Built simulation executable D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Tb_PROCESADOR_isim_beh.exe
+Fuse Memory Usage: 37760 KB
+Fuse CPU Usage: 732 ms

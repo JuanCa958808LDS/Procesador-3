@@ -1,5 +1,5 @@
 ISim log file
-Running: D:\Documents\arquitectura de computadores LDS3\procesador  2 juan camilo\procesador2\Tb_PROCESADOR_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Tb_PROCESADOR_isim_beh.wdb 
+Running: D:\Desktop\procesador angelita 3 Juan Camilo Olmos Oliveros\procesador3\Tb_PROCESADOR_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Tb_PROCESADOR_isim_beh.wdb 
 ISim P.20131013 (signature 0x7708f090)
 ----------------------------------------------------------------------
 INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
@@ -35,5 +35,5 @@ ERROR: Index 32 out of bound 0 to 31.
 ERROR: In process Im.vhd:63 
  
 INFO: Simulator is stopped.
-# run 1.00ns
+# run 100 ns
 INFO: Simulator is stopped.

@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -o "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Tb_PROCESADOR_isim_beh.exe" -prj "D:/Documents/arquitectura de computadores LDS3/procesador  2 juan camilo/procesador2/Tb_PROCESADOR_beh.prj" "work.Tb_PROCESADOR" 
+-intstyle "ise" -incremental -o "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Tb_PROCESADOR_isim_beh.exe" -prj "D:/Desktop/procesador angelita 3 Juan Camilo Olmos Oliveros/procesador3/Tb_PROCESADOR_beh.prj" "work.Tb_PROCESADOR" 
